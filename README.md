@@ -1,9 +1,9 @@
-![Bannière](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Richard%20KOMBATE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Master%201%20IA%20%26%20Big%20Data%20%C2%B7%20EPL%20Lom%C3%A9%20%C3%97%20UTBM&descSize=18&descAlignY=58)
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=gountande%20KOMBATE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Master%202%20IA%20%26%20Big%20Data%20%C2%B7%20EPL%20Lom%C3%A9%20%C3%97%20UTBM&descSize=18&descAlignY=58)
 
 ![Texte animé](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=22D3EE&width=650&lines=Je+transforme+les+donn%C3%A9es+en+d%C3%A9cisions;Vision+par+ordinateur+%7C+Big+Data+%7C+IA;Des+solutions+concr%C3%A8tes+pour+le+Togo)
 
 ![Lomé](https://img.shields.io/badge/Lom%C3%A9-Togo-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Master](https://img.shields.io/badge/Master%201-IA%20%26%20Big%20Data-8b5cf6?style=for-the-badge)
+![Master](https://img.shields.io/badge/Master%202-IA%20%26%20Big%20Data-8b5cf6?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ouvert](https://img.shields.io/badge/Ouvert%20aux-stages%20%26%20collaborations-10b981?style=for-the-badge)
 
@@ -60,8 +60,8 @@ Je construis des solutions data et IA qui répondent à des problèmes concrets 
 
 ## 📫 Me contacter
 
-[![Email](https://img.shields.io/badge/Email-ton--email%40exemple.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn20KOMBATE-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](LIEN-LINKEDIN)
+[![Email](https://img.shields.io/badge/blanckombate93@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](blanckombate93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KOMBATE gountande-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](LIEN-LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-en%20construction-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rrichkombate)
 
 ![Pied de page](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=110&section=footer)
