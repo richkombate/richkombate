@@ -1,4 +1,4 @@
-![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=200&section=header&text=Gountande%20KOMBATE&fontSize=48&fontColor=ffffff&desc=Master%202%20IA%20%26%20Big%20Data%20%C2%B7%20EPL%20Lom%C3%A9%20%C3%97%20UTBM&descSize=18&descAlignY=60)
+![Bannière](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&background=0F172A&center=true&vCenter=true&width=900&height=180&lines=Gountande+KOMBATE;Master+2+IA+%26+Big+Data+%C2%B7+EPL+Lom%C3%A9+%C3%97+UTBM)
 
 ![Texte animé](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=22D3EE&width=650&lines=Bonjour%2C+je+suis+Gountande+KOMBATE+%F0%9F%91%8B;Je+transforme+les+donn%C3%A9es+en+d%C3%A9cisions;Vision+par+ordinateur+%7C+Big+Data+%7C+IA;Des+solutions+concr%C3%A8tes+pour+le+Togo)
 
