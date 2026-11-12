@@ -11,7 +11,7 @@
 
 ## 👋 À propos
 
-Étudiant en **Master 1 Intelligence Artificielle & Big Data** à l'École Polytechnique de Lomé, en partenariat avec l'**UTBM** (France).
+Étudiant en **Master 2 Intelligence Artificielle & Big Data** à l'École Polytechnique de Lomé, en partenariat avec l'**UTBM** (France).
 Je construis des solutions data et IA qui répondent à des problèmes concrets : inspection industrielle, logistique portuaire, prévention des inondations.
 
 | | |
