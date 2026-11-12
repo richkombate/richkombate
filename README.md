@@ -61,7 +61,7 @@ Je construis des solutions data et IA qui répondent à des problèmes concrets 
 ## 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-ton--email%40exemple.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard%20KOMBATE-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](LIEN-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-en%20construction-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Richardkombate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn20KOMBATE-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](LIEN-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-en%20construction-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rrichkombate)
 
 ![Pied de page](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=110&section=footer)
